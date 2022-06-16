@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: Readings section contains a list of sections from the required textbook
+  for various topics covered during the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 91909167-fa22-fa17-a458-808e568b11de
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Assigned readings are sections in the course textbook: Mathews, J. H., and K. D. Fink. _Numerical Methods Using MATLAB®_. 3rd ed. Upper Saddle River, NJ: Prentice Hall, 1998. ISBN: 9780132700429.

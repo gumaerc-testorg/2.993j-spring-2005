@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: Calendar section contains the schedule for the topics covered during
+  the course and the key dates to submit the homework assignments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: b0f50e90-2c23-3e67-412d-ce2d095c3cf2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
