@@ -6,6 +6,7 @@ file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lagrange.m
 uid: 81c41808-17d8-4ce6-d244-059d40873e1b
 ---
 This file contains code for the roots of non-linear equations: bisection, and Newton-Ralphson iteration.
-

@@ -6,6 +6,7 @@ file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: bisect.m
 uid: 9cfde1f2-7d2f-b250-c2cd-90a1832b3bdd
 ---
 This resource contains the code for implementing the linear systems: iterative methods, convergence of iterative schemes.
-

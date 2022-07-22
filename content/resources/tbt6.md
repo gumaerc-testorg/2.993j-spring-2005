@@ -6,6 +6,7 @@ file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tbt6.m
 uid: 4db63dea-1c91-5774-e03d-e55107c5e57a
 ---
 This file contains code for Linear systems of equations: Cramer's rule, and gaussian elimination.
-

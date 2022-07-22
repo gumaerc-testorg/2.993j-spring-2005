@@ -5,6 +5,7 @@ file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: radd.m
 uid: 30bab3e9-5ce3-7cfa-1103-12f52ea597bb
 ---
 This file contains code for computer architecture.
-

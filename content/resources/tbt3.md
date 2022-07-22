@@ -6,6 +6,7 @@ file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: tbt3.m
 uid: 09a7a859-4391-d51d-fb81-86eed5c84779
 ---
 This file contains code for error propagation, error estimation, and condition numbers.
-

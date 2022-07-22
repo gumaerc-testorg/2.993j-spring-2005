@@ -6,6 +6,7 @@ file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: sbfj_3.m
 uid: a60003d5-f70b-ca19-e27b-d2a8666c1c3c
 ---
 This file contains code for recursion numerical instability, errors of simple arithmetic operations.
-
