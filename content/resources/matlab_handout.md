@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains handouts for matlab.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/ba93bdc055e91f4f843b64f01987b732_matlab_handout.pdf
+file_size: 245396
 file_type: application/pdf
 learning_resource_types:
 - Assignments

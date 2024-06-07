@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains code for computer architecture, and number representations.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/6a3afcd2e534fdda2482f311525d0f79_heron.m
+file_size: 333
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains code for the roots of non-linear equations: bisection,
   and Newton-Ralphson iteration.'
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/81c4180817d84ce6d244059d40873e1b_lagrange.m
+file_size: 234
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

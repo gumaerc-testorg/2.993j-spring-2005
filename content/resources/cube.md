@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains the code for linear systems: iterative methods, and
   convergence of iterative schemes.'
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/1fff454810cf5e658edf64253010b3ec_cube.m
+file_size: 508
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

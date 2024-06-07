@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains code for curve fitting graph.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/7c53dcad40a91ef9070ae053ac6778fe_curve.m
+file_size: 792
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

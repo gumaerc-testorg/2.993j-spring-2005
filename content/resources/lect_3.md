@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes on systems of linear equations.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/c533e47096bf300b0d9d444defefb4eb_lect_3.pdf
+file_size: 1897993
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
