@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains code coevered for recursion, numerical instability,
   and errors of simple arithmetic operations.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/2c306caadc9a82fbaa6969b71fad7688_euler.m
+file_size: 318
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

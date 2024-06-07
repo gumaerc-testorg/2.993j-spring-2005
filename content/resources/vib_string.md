@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains code for the implementation for linear system: error
   analysis, and condition numbers for linear systems.'
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/160f637ede04e5a932156561b1ebc606_vib_string.m
+file_size: 1501
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

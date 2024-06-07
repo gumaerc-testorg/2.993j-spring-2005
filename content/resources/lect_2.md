@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for floating number representations, error analysis
   etc.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/2edc2556bf5a37f76de97137c4ce807f_lect_2.pdf
+file_size: 2734036
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

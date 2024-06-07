@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the code for the implementation of Newton-Raphson
   method.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/6aebf7ed9f10cdada5642059d362fb41_newton_coef.m
+file_size: 227
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains in-class questions for the course.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/d3400d3ccf1ee4969874901fb95cf1fb_ps0.pdf
+file_size: 43738
 file_type: application/pdf
 learning_resource_types:
 - Assignments
