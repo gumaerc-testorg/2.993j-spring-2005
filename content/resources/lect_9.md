@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes for numerical differentiation and integration,
   and error estimates.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/e340bfdcae0f07d59fc4c8cc216f2933_lect_9.pdf
+file_size: 620932
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

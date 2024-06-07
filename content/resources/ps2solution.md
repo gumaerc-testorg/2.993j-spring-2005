@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains solutions to the questions in problem set 2.
 file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/b804d30b6c14cfeb81775ce4e03c1289_ps2solution.pdf
+file_size: 117943
 file_type: application/pdf
 learning_resource_types:
 - Assignments
