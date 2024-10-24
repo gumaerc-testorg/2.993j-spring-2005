@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the code for implementing the linear systems:
   iterative methods, convergence of iterative schemes.'
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/9cfde1f27d2fb250c2cd90a1832b3bdd_bisect.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/9cfde1f27d2fb250c2cd90a1832b3bdd_bisect.m
 file_size: 491
 file_type: text/plain
 learning_resource_types:

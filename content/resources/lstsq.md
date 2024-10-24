@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains code for least square method.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/8d74ecadd5357a147de1ded3214378f5_lstsq.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/8d74ecadd5357a147de1ded3214378f5_lstsq.m
 file_size: 162
 file_type: text/plain
 learning_resource_types:

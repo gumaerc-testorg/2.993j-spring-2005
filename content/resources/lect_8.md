@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for interpolation of functions by polynomials,
   lagrange interpolation, and triangular family.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/b583f363d9f71acf512541a7a6aa99a2_lect_8.pdf
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/b583f363d9f71acf512541a7a6aa99a2_lect_8.pdf
 file_size: 2722641
 file_type: application/pdf
 learning_resource_types:

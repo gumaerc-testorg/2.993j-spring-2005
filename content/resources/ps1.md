@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains assignment questions for the course.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/d3c4b233d69dd42f65368a40f058bbcc_ps1.pdf
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/d3c4b233d69dd42f65368a40f058bbcc_ps1.pdf
 file_size: 24155
 file_type: application/pdf
 learning_resource_types:

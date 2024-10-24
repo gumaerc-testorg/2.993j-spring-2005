@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains code for numerical differentiation and integration,
   and error estimates.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/033c57216ea9656ed46b37b018315fcf_rkg.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/033c57216ea9656ed46b37b018315fcf_rkg.m
 file_size: 753
 file_type: text/plain
 learning_resource_types:
