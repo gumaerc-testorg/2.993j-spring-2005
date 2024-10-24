@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains code for the implementation for newton-raphson method.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/89178edc9c280e911ddffacba3ff4e39_newton_test.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/89178edc9c280e911ddffacba3ff4e39_newton_test.m
 file_size: 572
 file_type: text/plain
 learning_resource_types:

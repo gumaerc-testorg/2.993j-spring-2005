@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains code for minimization problems, least square approximation.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/e36d85e6dd6788f53faa8e85cb021fe2_cost.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/e36d85e6dd6788f53faa8e85cb021fe2_cost.m
 file_size: 146
 file_type: text/plain
 learning_resource_types:
