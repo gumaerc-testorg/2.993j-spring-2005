@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains notes for tri-diagonal systems.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/e6763364bad16a2721e4788d3d247cee_lect_5.pdf
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/e6763364bad16a2721e4788d3d247cee_lect_5.pdf
 file_size: 584306
 file_type: application/pdf
 learning_resource_types:

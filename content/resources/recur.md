@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains code for number representations.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/743c24eddd2dbdb8dd2337c09b8e3476_recur.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/743c24eddd2dbdb8dd2337c09b8e3476_recur.m
 file_size: 749
 file_type: text/plain
 learning_resource_types:

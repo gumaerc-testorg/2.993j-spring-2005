@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains code for error propagation, error estimation, and
   condition numbers.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/09a7a8594391d51dfb8186eed5c84779_tbt3.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/09a7a8594391d51dfb8186eed5c84779_tbt3.m
 file_size: 231
 file_type: text/plain
 learning_resource_types:

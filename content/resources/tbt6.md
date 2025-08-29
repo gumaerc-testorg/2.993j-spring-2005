@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains code for Linear systems of equations: Cramer''s rule,
   and gaussian elimination.'
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/4db63dea1c915774e03de55107c5e57a_tbt6.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/4db63dea1c915774e03de55107c5e57a_tbt6.m
 file_size: 399
 file_type: text/plain
 learning_resource_types:

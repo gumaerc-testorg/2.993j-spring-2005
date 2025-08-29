@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains code for computer architecture.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/30bab3e95ce37cfa110312f52ea597bb_radd.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/30bab3e95ce37cfa110312f52ea597bb_radd.m
 file_size: 538
 file_type: text/plain
 learning_resource_types:
