@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains code for recursion numerical instability, errors of
   simple arithmetic operations.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/e936d30a31f6353d775582efdce812f2_sbfj_f.m
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/e936d30a31f6353d775582efdce812f2_sbfj_f.m
 file_size: 122
 file_type: text/plain
 learning_resource_types:

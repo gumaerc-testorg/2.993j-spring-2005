@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains notes for initial value problems, higher order differential
   equations.
-file: /courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/5baa6ba33dbf840c7437b0d7daef92d2_lect_11.pdf
+file: /ol-ocw-studio-app/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/5baa6ba33dbf840c7437b0d7daef92d2_lect_11.pdf
 file_size: 1833225
 file_type: application/pdf
 learning_resource_types:
